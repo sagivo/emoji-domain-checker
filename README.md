@@ -6,6 +6,7 @@ clone the repo and change `emojis` under `index.js` to have whatever you want to
 
 ## HOW DOES IT WORK?
 
+This repo will make an https call to ❤❤❤.ws and let you know if one of the domains you look for is available.
 Behind the scenes, all domains are ASCII, even if you see the domain name displayed as an emoji.
 
 The actual mechanics aren't that important, but the key thing to know is that the browser uses a strategy called "punycoding" to convert "❤❤❤" to "xn--qeiaa" behind the scenes.
