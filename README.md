@@ -2,7 +2,9 @@
 EMOJI DOMAINS ARE 100% COMPATIBLE WITH ALL BROWSERS.  
 You didn't know this worked, did you?  
 ## install
-clone the repo and change `emojis` under `index.js` to have whatever you want to look for.
+- clone the repo. 
+- run `npm install`
+- change `emojis` under `index.js` to have whatever you want to look for.
 
 ## HOW DOES IT WORK?
 
