@@ -1,3 +1,5 @@
+'use strict';
+
 // emojis is an array of emojis you want to check. atm it's all the utf8 emojis but you can edit it
 // to be whatever you want. example: ['👌👍', '🍑🍆', '😣']
 const emojis = require("emoji-chars"); 
